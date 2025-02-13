@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Hero = ({ title="JM", subtitle="No one left behind"}) => {
+const Hero = ({ title="React Jobs", subtitle="No One left Behind"}) => {
   return (
     <>
         {/* <!-- Hero --> */}
